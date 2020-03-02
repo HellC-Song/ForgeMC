@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForgeMC:jar">
+    <output-path>E:/IDEAJAVA/ForgeMC/artifacts/ForgeMC_jar</output-path>
+    <root id="archive" name="ForgeMC.jar">
+      <element id="module-output" name="ForgeMC" />
+    </root>
+  </artifact>
+</component>

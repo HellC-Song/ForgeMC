@@ -1,0 +1,4 @@
+name: ForgeMC
+version: 0.1
+author: HellC
+main: org.ForgeMC.spigot.plugin.Main
